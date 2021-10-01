@@ -1048,16 +1048,16 @@ ul#menu li a{
   font-size: 20px;
   border-radius: 10px;
   padding: 30px;
-  border: 3px solid #0B4072;
+  border: 3px solid #405477;
   background: #fff;
-  color: #06213f;
+  color: #0B4072;
   font-family: 'Poppins', sans-serif;
   box-shadow: none;
 }
 .directions .table:hover {
   background: #fff;
   color: #06213f;
-  border-color: #06213f;
+  border-color: #0B4072;
 }
 .directions .table:before {
   content: "";
@@ -1113,7 +1113,7 @@ ul#menu li a{
 =============================================================================*/
 .member{
   position: relative;
-  color: #06213f;
+  color: #0B4072;
   margin-bottom: 30px;
 }
 .member h4 {
@@ -1136,7 +1136,7 @@ ul#menu li a{
 .member .border {
   position: relative;
   border-radius: 10px;
-  border: 3px solid #0B4072!important;
+  border: 3px solid #405477!important;
 }
 .member .border:before {
 
