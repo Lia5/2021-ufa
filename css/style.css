@@ -1073,6 +1073,7 @@ ul#menu li a{
 .member{
   position: relative;
   color: #1e283c;
+  margin-bottom: 30px;
 }
 .member h4 {
   font-family: 'Poppins', sans-serif;
