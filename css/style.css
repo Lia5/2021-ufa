@@ -2262,18 +2262,6 @@ label.radios {
   margin-left: -15px;
   margin-right: -15px;
 }
-.contacts .title span {
-  position: relative;
-}
-.contacts .title span:before {
-  content: "";
-  position: absolute;
-  top: -22px;
-  left: 0px;
-  width: 70px;
-  height: 4px;
-  background: #ffb32f;
-}
 .contacts-icon {
   display: block;
   background-size: 30px;
