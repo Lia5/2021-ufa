@@ -202,7 +202,7 @@ ul#menu li a:hover,.twite i,.twite a:hover,.category_sidebar ul li:hover,
 	border-color: #e1e1e1;
 }
 .border{
-	border-color: #ffb32f !important;
+	border-color: #ffb32f;
 }
 .form-control:focus{
 	border-color: #1e283c;
