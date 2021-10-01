@@ -521,7 +521,7 @@ header{
 .navbar-nav .nav-item .nav-link.active:before{
     opacity: 1;
 }
-.nav-link.current {
+.navbar-light .navbar-nav .nav-link.current {
   pointer-events: none;
   color: #ffb32f;
 }
@@ -2323,6 +2323,14 @@ label.radios {
 /*
 // Medium devices (tablets, 768px and up)
 ============================================================*/
+@media (min-width: 992px){
+  .devider {
+    display: none;
+  }
+  .navbar-nav {
+    padding-top: 40px;
+  }
+}
 @media (max-width: 991px){
   .main_nav{
     /*background-color: #06213f;*/
