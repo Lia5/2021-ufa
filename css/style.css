@@ -353,6 +353,9 @@ a:hover,a:focus,a.active{
 .section_title_1{
   width: 60%;
 }
+.section_title_1 .title {
+  color: #0B4072;
+}
 .main_title p{
   width: 40%;
 }
@@ -2257,10 +2260,14 @@ label.radios {
 .box_bg_style .body_image10{
   background: url(../images/bg-image/bg-10.jpg) no-repeat center / cover;
 }
-.contacts {
+.contacts, footer {
   background: #06213f;
   margin-left: -15px;
   margin-right: -15px;
+}
+footer {
+  border-top: 1px solid rgba(255, 255, 255, 0.2);
+  color: #fff;
 }
 .contacts-icon {
   display: block;
