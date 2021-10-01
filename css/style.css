@@ -533,7 +533,7 @@ header{
 .navbar-brand__logo {
   font-size: 40px;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #ffb32f;
 }
 .navbar-brand__text {
   text-transform: initial;
@@ -541,6 +541,7 @@ header{
   letter-spacing: 0.3px;
   line-height: 1;
   padding-left: 10px;
+  color: #fff;
 }
 .navbar-brand__text span {
   letter-spacing: 0.54px;
@@ -2323,19 +2324,17 @@ label.radios {
 /*
 // Medium devices (tablets, 768px and up)
 ============================================================*/
-@media (min-width: 992px){
-  .devider {
-    display: none;
-  }
-  .navbar-nav {
-    padding-top: 40px;
-  }
-}
 @media (max-width: 991px){
   .main_nav{
     /*background-color: #06213f;*/
     background-color: rgba(6, 33, 63, 0.8) !important;
       
+  }
+  .devider {
+    display: none;
+  }
+  .navbar-nav {
+    padding-top: 40px;
   }
   .mainbanner_content p{
     width: 71%;
