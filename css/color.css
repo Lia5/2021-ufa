@@ -4,7 +4,7 @@
 	color: #ffb32f;
 }
 .color_primary{
-	color: #1e283c;
+	color: #06213f;
 }
 .color_secondery{
 	color: #818181;
@@ -24,7 +24,7 @@
 	background-color: #ffb32f;
 }
 .bg_primary{
-	background-color: #1e283c;
+	background-color: #06213f;
 }
 .bg_secondery{
 	background-color: #f7f7f7;
@@ -51,7 +51,7 @@
 	color: #fff;
 }
 .btn-default:hover,.btn-default.active{
-	background-color: #1e283c;
+	background-color: #06213f;
 	color: #fff;
 }
 .socal_media ul li a:hover{
@@ -62,7 +62,7 @@
 	color: #ffb32f;
 }
 .btn_info:hover{
-	color: #1e283c;
+	color: #06213f;
 }
 /*	Navbar Color
 ===================================================================*/
@@ -74,7 +74,7 @@
 	color: #fff;
 }
 .nav-scroll .navbar-light .navbar-brand{
-	color: #1e283c;
+	color: #06213f;
 }
 .navbar-nav .nav-item .nav-link:before{
 	background-color: #ffb32f;
@@ -87,7 +87,7 @@ ul#menu li.active a,.contact_massage a{
 	color: #ffb32f;
 }
 .nav-scroll .navbar-light .navbar-nav .nav-link{
-	//*color: #1e283c*// color: #fff
+	//*color: #06213f*// color: #fff
 }
 .dark_nav.nav-scroll{
 	background-color: #232323 !important;
@@ -115,7 +115,7 @@ ul#menu li a:hover,.twite i,.twite a:hover,.category_sidebar ul li:hover,
 ===================================================================*/
 .primary_link a,.socal_media_2 ul li a,.contact_message .error,.page-link,
 .recent_post a,.tags ul li a{
-	color: #1e283c;
+	color: #06213f;
 }
 /*	White Color Class & ID
 ===================================================================*/
@@ -146,7 +146,7 @@ ul#menu li a:hover,.twite i,.twite a:hover,.category_sidebar ul li:hover,
 ===================================================================*/
 #scroll,.personal_video a,.ball-scale-multiple > div,.preloader,
 .sidenav,.table:hover,.admin{
-	background-color: #1e283c;
+	background-color: #06213f;
 }
 /*	Background Color Gray Class & ID
 ===================================================================*/
@@ -172,7 +172,7 @@ ul#menu li a:hover,.twite i,.twite a:hover,.category_sidebar ul li:hover,
 /*	Border Color Primary
 ===================================================================*/
 .profile_img.personal_video .iconround:before{
-	border-color: #1e283c;
+	border-color: #06213f;
 }
 #scroll span{
     border-bottom-color: #ffffff;
@@ -205,7 +205,7 @@ ul#menu li a:hover,.twite i,.twite a:hover,.category_sidebar ul li:hover,
 	border-color: #ffb32f;
 }
 .form-control:focus{
-	border-color: #1e283c;
+	border-color: #06213f;
 }
 .main_nav{
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
