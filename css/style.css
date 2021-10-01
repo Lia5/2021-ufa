@@ -1048,7 +1048,7 @@ ul#menu li a{
   font-size: 20px;
   border-radius: 10px;
   padding: 30px;
-  border: 4px solid #06213f;
+  border: 3px solid #0B4072;
   background: #fff;
   color: #06213f;
   font-family: 'Poppins', sans-serif;
@@ -1136,7 +1136,7 @@ ul#menu li a{
 .member .border {
   position: relative;
   border-radius: 10px;
-  border: 4px solid #06213f;
+  border: 3px solid #0B4072!important;
 }
 .member .border:before {
 
@@ -1218,7 +1218,7 @@ ul#menu li a{
   width: 100%;
   height: 100%;
   padding: 15px;
-  border: 3px solid !important;
+  border: 3px solid;
 }
 .border p{
   margin-bottom: 25px;
@@ -2952,7 +2952,7 @@ label.radios {
   }
 }
 @media (max-width: 374px) {
-  .directions .table.table--dt:before {
+  .directions .table:before {
     width: 54px;
   }
   .directions .table {
