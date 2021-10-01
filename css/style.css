@@ -521,6 +521,10 @@ header{
 .navbar-nav .nav-item .nav-link.active:before{
     opacity: 1;
 }
+.nav-link.current {
+  pointer-events: none;
+  color: #ffb32f;
+}
 .navbar-brand {
   display: flex;
   align-items: center;
@@ -529,7 +533,7 @@ header{
 .navbar-brand__logo {
   font-size: 40px;
   text-transform: uppercase;
-  color: #ffb32f;
+  color: #ffffff;
 }
 .navbar-brand__text {
   text-transform: initial;
