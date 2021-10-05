@@ -919,6 +919,9 @@ ul#menu li a{
 16.   Services Two
 ====================================================================================*/
 
+.service_two {
+  height: calc(100% - 30px);
+}
 .service_two p{
   padding: 30px 20px;
 }
@@ -926,7 +929,7 @@ ul#menu li a{
     position: relative;
     overflow: hidden;
     text-align: right;
-    border-bottom: 1px dotted;
+    /* border-bottom: 1px dotted; */
 }
 .srv_item_number:after{
     content: "";
@@ -941,7 +944,7 @@ ul#menu li a{
     line-height: 42px;
     font-weight: 700;
     position: relative;
-    top: 8px;
+    top: 6px;
     display: inline-block;
     transition: all .4s ease;
     padding-right: 20px;
