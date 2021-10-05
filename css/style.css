@@ -2717,7 +2717,7 @@ footer {
   .service_two {
     display: flex;
     align-items: center;
-    padding: 20px;
+    padding: 10px;
     
   }
   .service_two h5 {
@@ -2983,5 +2983,11 @@ footer {
   }
   .directions .table {
     font-size: 18px;
+  }
+  .srv_item_number strong {
+    font-size: 30px;
+  }
+  .service_two .srv_item_number {
+    min-width: 50px;
   }
 }
