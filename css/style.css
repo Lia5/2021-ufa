@@ -918,6 +918,7 @@ ul#menu li a{
 /*==================================================================================
 16.   Services Two
 ====================================================================================*/
+
 .service_two p{
   padding: 30px 20px;
 }
@@ -1046,7 +1047,8 @@ ul#menu li a{
 /*============================================================================
 18.   directions
 ==============================================================================*/
-.directions .table {
+.directions .table,
+.service_two {
   position: relative;
   font-size: 20px;
   border-radius: 10px;
@@ -1057,7 +1059,8 @@ ul#menu li a{
   font-family: 'Poppins', sans-serif;
   box-shadow: none;
 }
-.directions .table:hover {
+.directions .table:hover,
+.service_two:hover {
   background: #fff;
   color: #06213f;
   border-color: #0B4072;
@@ -2262,8 +2265,6 @@ label.radios {
 }
 .contacts, footer {
   background: #06213f;
-  margin-left: -15px;
-  margin-right: -15px;
 }
 footer {
   border-top: 1px solid rgba(255, 255, 255, 0.2);
