@@ -2714,6 +2714,21 @@ footer {
   .reply_form{
     margin-bottom: 60px;
   }
+  .service_two {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    
+  }
+  .service_two h5 {
+    padding: 0;
+    margin: 0;
+    flex-grow: 1;
+  }
+  .service_two .srv_item_number {
+    min-width: 85px;
+    text-align: center;
+  }
 }
 
 /*
