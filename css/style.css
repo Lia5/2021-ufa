@@ -2717,7 +2717,7 @@ footer {
   .service_two {
     display: flex;
     align-items: center;
-    padding: 10px;
+    padding: 10px 10px 10px 0;
     
   }
   .service_two h5 {
@@ -2728,6 +2728,10 @@ footer {
   .service_two .srv_item_number {
     min-width: 85px;
     text-align: center;
+  }
+  .service_two .srv_item_number strong {
+    top: 0;
+    padding-right: 0;
   }
 }
 
