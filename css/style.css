@@ -489,6 +489,7 @@ header{
     position: absolute;
     padding: 15px 0;
     min-height: 72px;
+    z-index: 12;
 }
 .nav-scroll{
     left: 0;
@@ -2295,6 +2296,17 @@ footer {
 }
 #scroll {
   border: 2px solid #fff;
+}
+.nav-link2 {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  line-height: 32px;
+  position: relative;
+  padding: 0;
+  color: #fff;
+}
+.nav-link2:hover {
+  color: #ffb32f;
 }
 /*=================================================================================
  31.   Responsive Media Queries Css
